@@ -15,4 +15,4 @@ Projeto final do Bootcamp Online de Front-end {reprograma} em dezembro/2019.
 
 Para o meu projeto final escolhi a maravilhosa Hedy Lamarr - A atriz de Hollywood que inventou a base para o Wi-Fi!!!
 
-O projeto completo com as demais participantes pode ser visto <a href=“https://github.com/reprograma/On4-projeto-final“>aqui</a>.
+O projeto completo com as demais participantes pode ser visto em https://github.com/reprograma/On4-projeto-final
