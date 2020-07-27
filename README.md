@@ -1,5 +1,3 @@
-# projeto-final-frontend
-
 # Projeto M-de-Maravilhosa
 
 Projeto final do Bootcamp Online de Front-end {reprograma} em dezembro/2019.
